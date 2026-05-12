@@ -3,7 +3,7 @@
 A modern, responsive portfolio website built with HTML, CSS, and JavaScript.
 
 ## Live Demo
-https://muhammadahmed414.github.io/my-project/
+muhammadahmed414.github.io/portfolio-website/
 
 ## Features
 - Responsive design
